@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ひたむきシンデレラ！",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2025-12-03T08:55:08.363359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひたむきシンデレラ！",
+      "artist": "CUTIE STREET",
+      "has_synced": true,
+      "path": "select/01_ひたむきシンデレラ!_CUTIE_STREET.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひたむきシンデレラ!",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_ひたむきシンデレラ!_CUTIE_STREET.txt"
+    }
+  ]
+}
